@@ -1,0 +1,17 @@
+mkdir <new folder>
+cd <new folder>
+git clone <git@.......>
+
+
+
+<<push changes that are in local repository>>
+
+(sudo) git add .
+(sudo) git commit -m "<my comment>"
+git push
+
+
+<<pull changes that are in remote repository>>
+
+git pull
+
