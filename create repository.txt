@@ -15,3 +15,5 @@ git push
 
 git pull
 
+//git status
+//git log
